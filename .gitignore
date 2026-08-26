@@ -1,0 +1,8 @@
+# nada de arquivos de trabalho, revisao ou material bruto neste repositorio
+review/
+materials/
+*.zip
+*.mp4.raw
+.DS_Store
+Thumbs.db
+desktop.ini
